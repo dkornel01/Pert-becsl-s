@@ -1,0 +1,12 @@
+Pert becslés
+- 3 nap lesz akkor a legnagyobb esélyes
+- Késobbi időpont sokkal nagyobb mint az elötte lévő
+
+Valoszinűség eloszlás
+
+O=optimista,
+N=Nevleges,
+P=pesszimista,
+
+V=(O+4N+P)/6
+Sz=(P-O)/6
